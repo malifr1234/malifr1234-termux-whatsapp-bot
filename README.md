@@ -6,18 +6,14 @@
 
  **HALO** 👋🏻
 
-**Termux whatsapp bot Update**
-
-Cobain juga nih
-
-[TERMUX WHATSAPP BOT V2](https://github.com/NazwaS/termux-whatsapp-bot)
+**Termux whatsapp bot Updated
 
 #### Give me Stars ⭐ to support
 
 #### Jangan lupa pilih watch agar kalian bisa dapat notifikasi ketika update
 
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
+    <img alt="ALIFBOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
 </div>
 
 **Semua fitur bergantung pada api, jika mengalami error berarti api yang di pakai sedang bermasalah**
