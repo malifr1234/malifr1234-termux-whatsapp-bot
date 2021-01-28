@@ -220,7 +220,6 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | Cecan|✅|
 | Cogan|✅|
 | Anime|✅|
-| Loli|✅|
 | Neko|✅|
 | Wallpaper|✅|
 | Quotes|✅|
@@ -231,7 +230,6 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | TEXT |Yes|
 | ------------- | ------------- |
 | Quotes Maker|✅|
-| Logo Pornhub|✅|
 | Text Snow|✅|
 | Logo Lion|✅|
 | Logo Wolf|✅|
